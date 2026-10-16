@@ -1,0 +1,10 @@
+{
+  "consumer": "kurn",
+  "license_files": [
+    "LICENSE",
+    "LICENSE.APACHE"
+  ],
+  "package": "uv",
+  "target": "x86_64-pc-windows-msvc",
+  "version": "0.12.23"
+}
