@@ -1,0 +1,10 @@
+{
+  "archive_sha256": "01c631aeabbfe0879540f77ef833416c532a20746285b494630160c23588b771",
+  "consumer": "kurn",
+  "license_files": [
+    "LICENSE"
+  ],
+  "package": "openxr-loader",
+  "target": "x86_64-pc-windows-msvc",
+  "version": "1.1.63"
+}
