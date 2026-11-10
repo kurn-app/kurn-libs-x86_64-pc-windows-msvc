@@ -1,0 +1,11 @@
+{
+  "archive_sha256": "0cdc5b38fe5a8168ed6a25814f5ba43c21d313dd3187314fccb37b7cec46e021",
+  "consumer": "kurn",
+  "license_files": [
+    "LICENSE",
+    "LICENSE.APACHE"
+  ],
+  "package": "uv",
+  "target": "x86_64-pc-windows-msvc",
+  "version": "0.13.7"
+}
