@@ -8,6 +8,7 @@
     "swresample",
     "swscale",
     "vpx",
+    "mp3lame",
     "ffmpeg",
     "ffprobe",
     "nvcodec"
@@ -16,11 +17,12 @@
   "license_files": [
     "LICENSE",
     "LICENSE.ffnvcodec",
-    "LICENSE.libvpx"
+    "LICENSE.libvpx",
+    "LICENSE.mp3lame"
   ],
   "package": "ffmpeg",
   "port_revision": "47ea963da8cf87c3637a85cf0c8a84320d0d33a2",
-  "source_sha256": "6213ee9c1763c902c9b10e870ed5f5cfe85e5370c48962a98bbd48ad54373b8c",
+  "source_sha256": "dc441a59e94abf82f0985102505666e796255449b17fede3caedf4725cb8ac12",
   "target": "x86_64-pc-windows-msvc",
   "vcpkg_revision": "9e593bb18ea69cc5095e012465dcd675a822ed0d",
   "version": "9.0"
